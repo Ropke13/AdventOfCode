@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WicqSnzzCpBzyieP1nfoH9MVaM/U0G2SD/jKv1WqPVOiu3L+9pI25LF+SKcEE8eDb0Kg3PkjsbwW2urno0iH5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trump\\source\\repos\\18-2\\AdventOfCode\\AdventOfCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trump\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
